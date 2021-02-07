@@ -1,0 +1,1 @@
+document.write('<script src="//use.typekit.net/icc1sfj.js"><\/script>');
